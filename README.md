@@ -42,6 +42,6 @@ The game features a GUI, score tracking and file management.
 - Esc – Exit game
 
 ## 👨‍🏫 Author
-Roey Derman
-Course: Object-Oriented Programming
-Institution: Bar-Ilan University
+- Roey Derman
+- Course: Object-Oriented Programming
+- Institution: Bar-Ilan University
